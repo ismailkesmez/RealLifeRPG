@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "LifeRPG",
+    "slug": "liferpg",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.liferpg.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.liferpg.app",
+      "supportsTablet": false
+    },
+    "extra": {
+      "eas": {
+        "projectId": "320d2f35-6c1a-4029-81f6-3194ae9de525"
+      }
+    }
+  }
+}
