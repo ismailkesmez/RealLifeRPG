@@ -73,4 +73,4 @@ Proje olmayan görevlerde, tekrar sayısı arttıkça kazanılan XP ve yetenek p
 * Veri paylaşım izni (Geliştiriciye anonim veri gönderimi).
 
 ## 6. Güvenlik ve Gizlilik
-Kullanıcı verileri varsayılan olarak cihazda tutulur. Ayarlar kısmından "Veri Paylaşımı" aktif edilirse geliştiriciye sistem iyileştirme amaçlı veri gönderilir.
+Şuanda açık bir özellik değil. Kullanıcı verileri varsayılan olarak cihazda tutulur. Ayarlar kısmından "Veri Paylaşımı" aktif edilirse geliştiriciye sistem iyileştirme amaçlı veri gönderilir.
